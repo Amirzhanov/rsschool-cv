@@ -8,22 +8,22 @@
 * **GitHub**: [Amirzhanov](https://github.com/Amirzhanov)
 
 ## About Me
-A responsibility, sociability
+* A responsibility, sociability
 
 ## Skills
-**HTML**
-**CSS**
-**JavaScript(Basic)**
-**Git**
-**Figma**
+* **HTML**
+* **CSS**
+* **JavaScript(Basic)**
+* **Git**
+* **Figma**
 
 ## Languages
-**Russian (native)**
-**English (A1)**
+* **Russian (native)**
+* **English (A1)**
 
  ## Education
-**Eurasian Humanitarian Institute**
+* **Eurasian Humanitarian Institute**
 
 ## Courses:
-**Rolling Scope School**
-**Youtube chanells**
+* **Rolling Scope School**
+* **Youtube chanells**

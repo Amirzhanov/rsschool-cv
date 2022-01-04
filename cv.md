@@ -15,3 +15,15 @@ A responsibility, sociability
 **CSS**
 **JavaScript(Basic)**
 **Git**
+**Figma**
+
+## Languages
+**Russian (native)**
+**English (A1)**
+
+ ## Education
+**Eurasian Humanitarian Institute**
+
+## Courses:
+**Rolling Scope School**
+**Youtube chanells**
